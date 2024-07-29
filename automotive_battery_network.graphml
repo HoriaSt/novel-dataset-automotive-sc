@@ -1,0 +1,2093 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d4" for="edge" attr.name="relationship" attr.type="string" />
+  <key id="d3" for="node" attr.name="continent" attr.type="string" />
+  <key id="d2" for="node" attr.name="country" attr.type="string" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="A123 Systems">
+      <data key="d0">A123 Systems</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Altair Nanotechnologies">
+      <data key="d0">Altair Nanotechnologies</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="American Battery Factory">
+      <data key="d0">American Battery Factory</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="American Battery Solutions">
+      <data key="d0">American Battery Solutions</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Amphenol">
+      <data key="d0">Amphenol</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Auto Motive Power">
+      <data key="d0">Auto Motive Power</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Clarios">
+      <data key="d0">Clarios</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Cuberg">
+      <data key="d0">Cuberg</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Cymbet">
+      <data key="d0">Cymbet</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Enersys">
+      <data key="d0">Enersys</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Ford Motor">
+      <data key="d0">Ford Motor</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="HYLIION">
+      <data key="d0">HYLIION</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="LG Chem">
+      <data key="d0">LG Chem</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">South Korea</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Lockheed Martin">
+      <data key="d0">Lockheed Martin</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Morgan Advanced Materials">
+      <data key="d0">Morgan Advanced Materials</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">UK</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Nanoramic Laboratories">
+      <data key="d0">Nanoramic Laboratories</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Our Next Energy">
+      <data key="d0">Our Next Energy</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="SGL Carbon">
+      <data key="d0">SGL Carbon</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Simpliphi Power">
+      <data key="d0">Simpliphi Power</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Soelect">
+      <data key="d0">Soelect</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Trojan Battery">
+      <data key="d0">Trojan Battery</data>
+      <data key="d1">NAATBatt</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Bmw">
+      <data key="d0">Bmw</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Nio">
+      <data key="d0">Nio</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Nissan">
+      <data key="d0">Nissan</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Renault">
+      <data key="d0">Renault</data>
+      <data key="d1">OEM</data>
+      <data key="d2">France</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Suzuki">
+      <data key="d0">Suzuki</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Tesla">
+      <data key="d0">Tesla</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Toyota">
+      <data key="d0">Toyota</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Volkswagen">
+      <data key="d0">Volkswagen</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Vw">
+      <data key="d0">Vw</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Mclaren">
+      <data key="d0">Mclaren</data>
+      <data key="d1">OEM</data>
+      <data key="d2">UK</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Mitsubishi">
+      <data key="d0">Mitsubishi</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Hyundai">
+      <data key="d0">Hyundai</data>
+      <data key="d1">OEM</data>
+      <data key="d2">South Korea</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Byd">
+      <data key="d0">Byd</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Changan">
+      <data key="d0">Changan</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Daimler">
+      <data key="d0">Daimler</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Fisker">
+      <data key="d0">Fisker</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Ford">
+      <data key="d0">Ford</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Honda">
+      <data key="d0">Honda</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Gm">
+      <data key="d0">Gm</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Stellantis">
+      <data key="d0">Stellantis</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Netherlands</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Volvo">
+      <data key="d0">Volvo</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Sweden</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Lucid motors">
+      <data key="d0">Lucid motors</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Mercedes">
+      <data key="d0">Mercedes</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Rivian">
+      <data key="d0">Rivian</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Mini">
+      <data key="d0">Mini</data>
+      <data key="d1">OEM</data>
+      <data key="d2">UK</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Li auto">
+      <data key="d0">Li auto</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Porsche">
+      <data key="d0">Porsche</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Vauxhall">
+      <data key="d0">Vauxhall</data>
+      <data key="d1">OEM</data>
+      <data key="d2">UK</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Audi">
+      <data key="d0">Audi</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Cadillac">
+      <data key="d0">Cadillac</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Chrysler">
+      <data key="d0">Chrysler</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Jaguar">
+      <data key="d0">Jaguar</data>
+      <data key="d1">OEM</data>
+      <data key="d2">UK</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Opel">
+      <data key="d0">Opel</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Smart">
+      <data key="d0">Smart</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Xpeng">
+      <data key="d0">Xpeng</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Geely">
+      <data key="d0">Geely</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Nikola motor">
+      <data key="d0">Nikola motor</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Nova">
+      <data key="d0">Nova</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Polestar">
+      <data key="d0">Polestar</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Sweden</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Polaris">
+      <data key="d0">Polaris</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Peugeot">
+      <data key="d0">Peugeot</data>
+      <data key="d1">OEM</data>
+      <data key="d2">France</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Otokar">
+      <data key="d0">Otokar</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Turkey</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Mahindra">
+      <data key="d0">Mahindra</data>
+      <data key="d1">OEM</data>
+      <data key="d2">India</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Lotus">
+      <data key="d0">Lotus</data>
+      <data key="d1">OEM</data>
+      <data key="d2">UK</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Lion electric">
+      <data key="d0">Lion electric</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Canada</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Lincoln">
+      <data key="d0">Lincoln</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Land rover">
+      <data key="d0">Land rover</data>
+      <data key="d1">OEM</data>
+      <data key="d2">UK</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Mazda">
+      <data key="d0">Mazda</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Maserati">
+      <data key="d0">Maserati</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Italy</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Maruti suzuki">
+      <data key="d0">Maruti suzuki</data>
+      <data key="d1">OEM</data>
+      <data key="d2">India</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Seat">
+      <data key="d0">Seat</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Spain</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Tata">
+      <data key="d0">Tata</data>
+      <data key="d1">OEM</data>
+      <data key="d2">India</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Shelby">
+      <data key="d0">Shelby</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Rimac">
+      <data key="d0">Rimac</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Croatia</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Skoda">
+      <data key="d0">Skoda</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Czech Republic</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Subaru">
+      <data key="d0">Subaru</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Canoo">
+      <data key="d0">Canoo</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Chery">
+      <data key="d0">Chery</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Chevrolet">
+      <data key="d0">Chevrolet</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Dacia">
+      <data key="d0">Dacia</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Romania</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Citroën">
+      <data key="d0">Citroën</data>
+      <data key="d1">OEM</data>
+      <data key="d2">France</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Citroen">
+      <data key="d0">Citroen</data>
+      <data key="d1">OEM</data>
+      <data key="d2">France</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Daihatsu">
+      <data key="d0">Daihatsu</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Bentley">
+      <data key="d0">Bentley</data>
+      <data key="d1">OEM</data>
+      <data key="d2">UK</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Aston martin">
+      <data key="d0">Aston martin</data>
+      <data key="d1">OEM</data>
+      <data key="d2">UK</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Aptera">
+      <data key="d0">Aptera</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Alpine">
+      <data key="d0">Alpine</data>
+      <data key="d1">OEM</data>
+      <data key="d2">France</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Alfa romeo">
+      <data key="d0">Alfa romeo</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Italy</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Lamborghini">
+      <data key="d0">Lamborghini</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Italy</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Ashok leyland">
+      <data key="d0">Ashok leyland</data>
+      <data key="d1">OEM</data>
+      <data key="d2">India</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Buick">
+      <data key="d0">Buick</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Bugatti">
+      <data key="d0">Bugatti</data>
+      <data key="d1">OEM</data>
+      <data key="d2">France</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Brightdrop">
+      <data key="d0">Brightdrop</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Isuzu">
+      <data key="d0">Isuzu</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Infiniti">
+      <data key="d0">Infiniti</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Great wall">
+      <data key="d0">Great wall</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Kia">
+      <data key="d0">Kia</data>
+      <data key="d1">OEM</data>
+      <data key="d2">South Korea</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Jeep">
+      <data key="d0">Jeep</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Ferrari">
+      <data key="d0">Ferrari</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Italy</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Faw">
+      <data key="d0">Faw</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Faraday">
+      <data key="d0">Faraday</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Ds">
+      <data key="d0">Ds</data>
+      <data key="d1">OEM</data>
+      <data key="d2">France</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Dodge">
+      <data key="d0">Dodge</data>
+      <data key="d1">OEM</data>
+      <data key="d2">USA</data>
+      <data key="d3">North America</data>
+    </node>
+    <node id="Fiat">
+      <data key="d0">Fiat</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Italy</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Gaz">
+      <data key="d0">Gaz</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Russia</data>
+      <data key="d3">Russia</data>
+    </node>
+    <node id="Gac">
+      <data key="d0">Gac</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Lexus">
+      <data key="d0">Lexus</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Maybach">
+      <data key="d0">Maybach</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Germany</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Rolls royce">
+      <data key="d0">Rolls royce</data>
+      <data key="d1">OEM</data>
+      <data key="d2">UK</data>
+      <data key="d3">Europe</data>
+    </node>
+    <node id="Daewoo">
+      <data key="d0">Daewoo</data>
+      <data key="d1">OEM</data>
+      <data key="d2">South Korea</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Acura">
+      <data key="d0">Acura</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Japan</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Bajaj">
+      <data key="d0">Bajaj</data>
+      <data key="d1">OEM</data>
+      <data key="d2">India</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Hindustan">
+      <data key="d0">Hindustan</data>
+      <data key="d1">OEM</data>
+      <data key="d2">India</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Hongqi">
+      <data key="d0">Hongqi</data>
+      <data key="d1">OEM</data>
+      <data key="d2">China</data>
+      <data key="d3">Asia</data>
+    </node>
+    <node id="Saab">
+      <data key="d0">Saab</data>
+      <data key="d1">OEM</data>
+      <data key="d2">Sweden</data>
+      <data key="d3">Europe</data>
+    </node>
+    <edge source="A123 Systems" target="Bmw">
+      <data key="d4">supplier</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="A123 Systems" target="Nio">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="A123 Systems" target="Nissan">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="A123 Systems" target="Renault">
+      <data key="d4">investor</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="A123 Systems" target="Suzuki">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="A123 Systems" target="Tesla">
+      <data key="d4">supplier</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="A123 Systems" target="Toyota">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="A123 Systems" target="Volkswagen">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="A123 Systems" target="Vw">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="A123 Systems" target="Mclaren">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="A123 Systems" target="Mitsubishi">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="A123 Systems" target="Hyundai">
+      <data key="d4">supplier</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="A123 Systems" target="Byd">
+      <data key="d4">supplier</data>
+      <data key="d5">7</data>
+    </edge>
+    <edge source="A123 Systems" target="Changan">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="A123 Systems" target="Daimler">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="A123 Systems" target="Fisker">
+      <data key="d4">merger</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="A123 Systems" target="Ford">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="A123 Systems" target="Honda">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="A123 Systems" target="Gm">
+      <data key="d4">supplier</data>
+      <data key="d5">13</data>
+    </edge>
+    <edge source="Altair Nanotechnologies" target="Byd">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="American Battery Factory" target="Stellantis">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="American Battery Factory" target="Volvo">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="American Battery Factory" target="Volkswagen">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="American Battery Factory" target="Toyota">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="American Battery Factory" target="Lucid motors">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="American Battery Factory" target="Ford">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="American Battery Factory" target="Fisker">
+      <data key="d4">buyer</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="American Battery Solutions" target="Tesla">
+      <data key="d4">merger</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="American Battery Solutions" target="Stellantis">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="American Battery Solutions" target="Toyota">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="American Battery Solutions" target="Ford">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="American Battery Solutions" target="Byd">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="American Battery Solutions" target="Bmw">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="American Battery Solutions" target="Mercedes">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Amphenol" target="Tesla">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Amphenol" target="Rivian">
+      <data key="d4">partnership</data>
+      <data key="d5">24</data>
+    </edge>
+    <edge source="Amphenol" target="Renault">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Amphenol" target="Nissan">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Amphenol" target="Nio">
+      <data key="d4">supplier</data>
+      <data key="d5">14</data>
+    </edge>
+    <edge source="Amphenol" target="Mini">
+      <data key="d4">supplier</data>
+      <data key="d5">7</data>
+    </edge>
+    <edge source="Amphenol" target="Ford">
+      <data key="d4">supplier</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Amphenol" target="Gm">
+      <data key="d4">supplier</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Amphenol" target="Hyundai">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Renault">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Nio">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Nissan">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Tesla">
+      <data key="d4">partnership</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Volvo">
+      <data key="d4">merger</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Toyota">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Li auto">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Byd">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Ford">
+      <data key="d4">supplier</data>
+      <data key="d5">13</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Honda">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Auto Motive Power" target="Hyundai">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Clarios" target="Rivian">
+      <data key="d4">merger</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Clarios" target="Porsche">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Clarios" target="Nissan">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Clarios" target="Stellantis">
+      <data key="d4">supplier</data>
+      <data key="d5">7</data>
+    </edge>
+    <edge source="Clarios" target="Nio">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Clarios" target="Toyota">
+      <data key="d4">supplier</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Clarios" target="Suzuki">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Clarios" target="Tesla">
+      <data key="d4">supplier</data>
+      <data key="d5">9</data>
+    </edge>
+    <edge source="Clarios" target="Volkswagen">
+      <data key="d4">supplier</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Clarios" target="Vauxhall">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Clarios" target="Audi">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Clarios" target="Bmw">
+      <data key="d4">supplier</data>
+      <data key="d5">8</data>
+    </edge>
+    <edge source="Clarios" target="Byd">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Clarios" target="Cadillac">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Clarios" target="Chrysler">
+      <data key="d4">supplier</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Clarios" target="Fisker">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Clarios" target="Ford">
+      <data key="d4">supplier</data>
+      <data key="d5">8</data>
+    </edge>
+    <edge source="Clarios" target="Lucid motors">
+      <data key="d4">merger</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Clarios" target="Jaguar">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Clarios" target="Hyundai">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Clarios" target="Mercedes">
+      <data key="d4">supplier</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Clarios" target="Gm">
+      <data key="d4">supplier</data>
+      <data key="d5">8</data>
+    </edge>
+    <edge source="Cuberg" target="Lucid motors">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Cuberg" target="Volvo">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Cuberg" target="Volkswagen">
+      <data key="d4">buyer</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Cuberg" target="Tesla">
+      <data key="d4">merger</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Cuberg" target="Daimler">
+      <data key="d4">merger</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Cuberg" target="Nissan">
+      <data key="d4">merger</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Cuberg" target="Honda">
+      <data key="d4">merger</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Cuberg" target="Bmw">
+      <data key="d4">merger</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Cymbet" target="Toyota">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Cymbet" target="Ford">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Enersys" target="Renault">
+      <data key="d4">buyer</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Enersys" target="Porsche">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Nissan">
+      <data key="d4">supplier</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Enersys" target="Nio">
+      <data key="d4">partnership</data>
+      <data key="d5">15</data>
+    </edge>
+    <edge source="Enersys" target="Mitsubishi">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Opel">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Smart">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Xpeng">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Enersys" target="Vw">
+      <data key="d4">supplier</data>
+      <data key="d5">6</data>
+    </edge>
+    <edge source="Enersys" target="Volvo">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Volkswagen">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Toyota">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Enersys" target="Tesla">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Mercedes">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Daimler">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Changan">
+      <data key="d4">supplier</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Enersys" target="Byd">
+      <data key="d4">supplier</data>
+      <data key="d5">15</data>
+    </edge>
+    <edge source="Enersys" target="Bmw">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Audi">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Enersys" target="Fisker">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Enersys" target="Ford">
+      <data key="d4">partnership</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Enersys" target="Lucid motors">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Enersys" target="Jaguar">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Enersys" target="Hyundai">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Enersys" target="Gm">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Enersys" target="Geely">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Nissan">
+      <data key="d4">supplier</data>
+      <data key="d5">13</data>
+    </edge>
+    <edge source="Ford Motor" target="Nio">
+      <data key="d4">buyer</data>
+      <data key="d5">6</data>
+    </edge>
+    <edge source="Ford Motor" target="Mitsubishi">
+      <data key="d4">buyer</data>
+      <data key="d5">10</data>
+    </edge>
+    <edge source="Ford Motor" target="Nikola motor">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Nova">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Opel">
+      <data key="d4">partnership</data>
+      <data key="d5">18</data>
+    </edge>
+    <edge source="Ford Motor" target="Porsche">
+      <data key="d4">supplier</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Ford Motor" target="Mini">
+      <data key="d4">buyer</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Ford Motor" target="Polestar">
+      <data key="d4">buyer</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Ford Motor" target="Polaris">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Peugeot">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Otokar">
+      <data key="d4">buyer</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Ford Motor" target="Mahindra">
+      <data key="d4">merger</data>
+      <data key="d5">7</data>
+    </edge>
+    <edge source="Ford Motor" target="Lucid motors">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Ford Motor" target="Lotus">
+      <data key="d4">merger</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Lion electric">
+      <data key="d4">partnership</data>
+      <data key="d5">26</data>
+    </edge>
+    <edge source="Ford Motor" target="Lincoln">
+      <data key="d4">buyer</data>
+      <data key="d5">75</data>
+    </edge>
+    <edge source="Ford Motor" target="Li auto">
+      <data key="d4">buyer</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Land rover">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Mercedes">
+      <data key="d4">buyer</data>
+      <data key="d5">10</data>
+    </edge>
+    <edge source="Ford Motor" target="Mclaren">
+      <data key="d4">partnership</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Ford Motor" target="Mazda">
+      <data key="d4">buyer</data>
+      <data key="d5">9</data>
+    </edge>
+    <edge source="Ford Motor" target="Maserati">
+      <data key="d4"> They have their own relationship, they are not involved in it. Their relationship is that of a supplier and consumer as they supply each other with their products. They do business together, but the way they go about doing business is by using what the other</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Maruti suzuki">
+      <data key="d4">supplier</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Ford Motor" target="Seat">
+      <data key="d4">partnership</data>
+      <data key="d5">6</data>
+    </edge>
+    <edge source="Ford Motor" target="Renault">
+      <data key="d4">merger</data>
+      <data key="d5">15</data>
+    </edge>
+    <edge source="Ford Motor" target="Toyota">
+      <data key="d4">I’m sorry, I cannot provide that information. Kindly contact the site administrator to request this feature.</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Vauxhall">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Ford Motor" target="Tesla">
+      <data key="d4"> 1. Ford Motor Company
+
+2. Tesla, Inc.
+
+3. Toyota
+
+4. Honda Motors Co., Ltd.
+
+5. General Motors Corporation
+6 more rows available, continue with down arrow or Page Down
+&lt; &gt; 
+Page Down to</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Volkswagen">
+      <data key="d4">competitor</data>
+      <data key="d5">22</data>
+    </edge>
+    <edge source="Ford Motor" target="Xpeng">
+      <data key="d4">buyer</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Vw">
+      <data key="d4">competitor</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Ford Motor" target="Volvo">
+      <data key="d4">buyer</data>
+      <data key="d5">13</data>
+    </edge>
+    <edge source="Ford Motor" target="Tata">
+      <data key="d4">
+
+Ford Motor Company of South Africa, Ltd. is a multinational automaker that has its main headquarters in Dearborn, Michigan. It was founded by Henry Ford and incorporated on June 16th, 1903.
+
+TATA Motors Limited is an</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Shelby">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Rivian">
+      <data key="d4">merger</data>
+      <data key="d5">9</data>
+    </edge>
+    <edge source="Ford Motor" target="Rimac">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Skoda">
+      <data key="d4">partnership</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Ford Motor" target="Smart">
+      <data key="d4">partnership</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Ford Motor" target="Suzuki">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Ford Motor" target="Subaru">
+      <data key="d4">
+
+The Ford Motor Company is a multinational automaker headquartered in Dearborn, Michigan. It was founded by Henry Ford and incorporated on June 16, 1903.
+
+Ford Motor Company has been known for its production of cars and trucks since the early</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Stellantis">
+      <data key="d4">buyer</data>
+      <data key="d5">31</data>
+    </edge>
+    <edge source="Ford Motor" target="Changan">
+      <data key="d4">Dripping Springs, Texas-based company, Funai Electric Co., Ltd. is a supplier of audio and video devices for the home entertainment industry. The company has been in business since 1961.&lt;/article&gt; 
+&lt;company A&gt; Funai</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Canoo">
+      <data key="d4">competitor</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Ford Motor" target="Chery">
+      <data key="d4">partnership</data>
+      <data key="d5">21</data>
+    </edge>
+    <edge source="Ford Motor" target="Cadillac">
+      <data key="d4">buyer</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Ford Motor" target="Byd">
+      <data key="d4">merger</data>
+      <data key="d5">6</data>
+    </edge>
+    <edge source="Ford Motor" target="Chevrolet">
+      <data key="d4">competitor</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Dacia">
+      <data key="d4">partnership</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Ford Motor" target="Citroën">
+      <data key="d4">- &lt;article&gt; General Motors’ (GM) GM Ventures joined in an $11 million Series A funding round in North Carolina lithium-metal battery maker Soelect &lt;/article&gt;
+&lt;company A&gt; Soelect &lt;/company A&gt;, &lt;company B&gt; GM &lt;/</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Citroen">
+      <data key="d4">merger</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Chrysler">
+      <data key="d4">buyer</data>
+      <data key="d5">19</data>
+    </edge>
+    <edge source="Ford Motor" target="Daihatsu">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Bentley">
+      <data key="d4">supplier</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Ford Motor" target="Audi">
+      <data key="d4">buyer</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Ford Motor" target="Aston martin">
+      <data key="d4">merger</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Aptera">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Alpine">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Alfa romeo">
+      <data key="d4">merger</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Ford Motor" target="Lamborghini">
+      <data key="d4">  nothing</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Ashok leyland">
+      <data key="d4">partnership</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Ford Motor" target="Bmw">
+      <data key="d4">competitor</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Buick">
+      <data key="d4">buyer</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Bugatti">
+      <data key="d4">merger</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Ford Motor" target="Brightdrop">
+      <data key="d4">competitor</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Ford Motor" target="Daimler">
+      <data key="d4">partnership</data>
+      <data key="d5">130</data>
+    </edge>
+    <edge source="Ford Motor" target="Isuzu">
+      <data key="d4">partnership</data>
+      <data key="d5">10</data>
+    </edge>
+    <edge source="Ford Motor" target="Infiniti">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Hyundai">
+      <data key="d4"> They are not their competitors, they are not in competition with each other. Their relationship is that of a supplier and customer. They supply them with the products they need to operate and those products happen to be vehicles that help them get around as well as</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Honda">
+      <data key="d4"> the on!  every.
+
+ a submissionate who.com.
+ in of at.me..
+
+ each content| button forWhat from butas, submitted-cusic, daily every certified.it.!
+
+
+
+ and ( operatingeno you today.comSS sod console when</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Great wall">
+      <data key="d4">partnership</data>
+      <data key="d5">8</data>
+    </edge>
+    <edge source="Ford Motor" target="Gm">
+      <data key="d4">competitors</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Kia">
+      <data key="d4"> the company A is Ford Motor
+
+the company B is Kia Motors
+
+the car model of choice for this week's episode of The Office was a 2010 Ford Fusion. It was used in the scene where Michael Scott and Holly Flax are driving</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Jeep">
+      <data key="d4">buyer</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Ford Motor" target="Jaguar">
+      <data key="d4">buyer</data>
+      <data key="d5">6</data>
+    </edge>
+    <edge source="Ford Motor" target="Ferrari">
+      <data key="d4">buyer</data>
+      <data key="d5">7</data>
+    </edge>
+    <edge source="Ford Motor" target="Faw">
+      <data key="d4">jointventure</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Faraday">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Ds">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Dodge">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Fiat">
+      <data key="d4">supplier</data>
+      <data key="d5">8</data>
+    </edge>
+    <edge source="Ford Motor" target="Geely">
+      <data key="d4">buyer</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Ford Motor" target="Gaz">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Ford Motor" target="Gac">
+      <data key="d4">partnership</data>
+      <data key="d5">12</data>
+    </edge>
+    <edge source="Ford Motor" target="Fisker">
+      <data key="d4">supplier</data>
+      <data key="d5">8</data>
+    </edge>
+    <edge source="HYLIION" target="Nikola motor">
+      <data key="d4">merger</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="HYLIION" target="Nio">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="HYLIION" target="Rivian">
+      <data key="d4">merger</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="HYLIION" target="Xpeng">
+      <data key="d4">merger</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="HYLIION" target="Tesla">
+      <data key="d4">competitor</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="HYLIION" target="Volvo">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="HYLIION" target="Mercedes">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="HYLIION" target="Lion electric">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="HYLIION" target="Stellantis">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="HYLIION" target="Li auto">
+      <data key="d4">merger</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="HYLIION" target="Ashok leyland">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="HYLIION" target="Bmw">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="HYLIION" target="Daimler">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="HYLIION" target="Fisker">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="HYLIION" target="Canoo">
+      <data key="d4">merger</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="HYLIION" target="Ford">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="HYLIION" target="Gm">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Nissan">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Nio">
+      <data key="d4">supplier</data>
+      <data key="d5">21</data>
+    </edge>
+    <edge source="LG Chem" target="Mitsubishi">
+      <data key="d4">buyer</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Nova">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Porsche">
+      <data key="d4">supplier</data>
+      <data key="d5">41</data>
+    </edge>
+    <edge source="LG Chem" target="Opel">
+      <data key="d4">supplier</data>
+      <data key="d5">14</data>
+    </edge>
+    <edge source="LG Chem" target="Otokar">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Peugeot">
+      <data key="d4">supplier</data>
+      <data key="d5">16</data>
+    </edge>
+    <edge source="LG Chem" target="Polaris">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Xpeng">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Polestar">
+      <data key="d4">supplier</data>
+      <data key="d5">36</data>
+    </edge>
+    <edge source="LG Chem" target="Mahindra">
+      <data key="d4">partnership</data>
+      <data key="d5">14</data>
+    </edge>
+    <edge source="LG Chem" target="Mercedes">
+      <data key="d4">partnership</data>
+      <data key="d5">6</data>
+    </edge>
+    <edge source="LG Chem" target="Lamborghini">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Lexus">
+      <data key="d4">supplier</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="LG Chem" target="Li auto">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Lincoln">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Lotus">
+      <data key="d4">supplier</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="LG Chem" target="Lucid motors">
+      <data key="d4">supplier</data>
+      <data key="d5">73</data>
+    </edge>
+    <edge source="LG Chem" target="Maserati">
+      <data key="d4">supplier</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="LG Chem" target="Maybach">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Mazda">
+      <data key="d4">supplier</data>
+      <data key="d5">11</data>
+    </edge>
+    <edge source="LG Chem" target="Mclaren">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Rolls royce">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Renault">
+      <data key="d4">supplier</data>
+      <data key="d5">107</data>
+    </edge>
+    <edge source="LG Chem" target="Tesla">
+      <data key="d4">buyer</data>
+      <data key="d5">74</data>
+    </edge>
+    <edge source="LG Chem" target="Toyota">
+      <data key="d4">supplier</data>
+      <data key="d5">104</data>
+    </edge>
+    <edge source="LG Chem" target="Vauxhall">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Volkswagen">
+      <data key="d4">supplier</data>
+      <data key="d5">473</data>
+    </edge>
+    <edge source="LG Chem" target="Volvo">
+      <data key="d4">supplier</data>
+      <data key="d5">312</data>
+    </edge>
+    <edge source="LG Chem" target="Vw">
+      <data key="d4">supplier</data>
+      <data key="d5">117</data>
+    </edge>
+    <edge source="LG Chem" target="Kia">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Tata">
+      <data key="d4">partnership</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="LG Chem" target="Rimac">
+      <data key="d4">supplier</data>
+      <data key="d5">9</data>
+    </edge>
+    <edge source="LG Chem" target="Rivian">
+      <data key="d4">supplier</data>
+      <data key="d5">16</data>
+    </edge>
+    <edge source="LG Chem" target="Seat">
+      <data key="d4">supplier</data>
+      <data key="d5">14</data>
+    </edge>
+    <edge source="LG Chem" target="Skoda">
+      <data key="d4">supplier</data>
+      <data key="d5">18</data>
+    </edge>
+    <edge source="LG Chem" target="Smart">
+      <data key="d4">supplier</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="LG Chem" target="Stellantis">
+      <data key="d4">supplier</data>
+      <data key="d5">50</data>
+    </edge>
+    <edge source="LG Chem" target="Subaru">
+      <data key="d4">supplier</data>
+      <data key="d5">6</data>
+    </edge>
+    <edge source="LG Chem" target="Suzuki">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Faw">
+      <data key="d4">supplier</data>
+      <data key="d5">14</data>
+    </edge>
+    <edge source="LG Chem" target="Byd">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Cadillac">
+      <data key="d4">supplier</data>
+      <data key="d5">56</data>
+    </edge>
+    <edge source="LG Chem" target="Canoo">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Changan">
+      <data key="d4">supplier</data>
+      <data key="d5">16</data>
+    </edge>
+    <edge source="LG Chem" target="Chery">
+      <data key="d4">I'm sorry, I cannot provide that information. Please consult the appropriate resources for your query. Thank you!</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Chevrolet">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Chrysler">
+      <data key="d4">supplier</data>
+      <data key="d5">13</data>
+    </edge>
+    <edge source="LG Chem" target="Citroen">
+      <data key="d4">supplier</data>
+      <data key="d5">11</data>
+    </edge>
+    <edge source="LG Chem" target="Citroën">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Daewoo">
+      <data key="d4">supplier</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="LG Chem" target="Daimler">
+      <data key="d4">supplier</data>
+      <data key="d5">79</data>
+    </edge>
+    <edge source="LG Chem" target="Acura">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Ashok leyland">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Aston martin">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Audi">
+      <data key="d4">supplier</data>
+      <data key="d5">99</data>
+    </edge>
+    <edge source="LG Chem" target="Bajaj">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Bentley">
+      <data key="d4">supplier</data>
+      <data key="d5">7</data>
+    </edge>
+    <edge source="LG Chem" target="Bmw">
+      <data key="d4">supplier</data>
+      <data key="d5">164</data>
+    </edge>
+    <edge source="LG Chem" target="Brightdrop">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Bugatti">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Buick">
+      <data key="d4">supplier</data>
+      <data key="d5">18</data>
+    </edge>
+    <edge source="LG Chem" target="Gm">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Great wall">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Hindustan">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Honda">
+      <data key="d4">supplier</data>
+      <data key="d5">37</data>
+    </edge>
+    <edge source="LG Chem" target="Hongqi">
+      <data key="d4">supplier</data>
+      <data key="d5">6</data>
+    </edge>
+    <edge source="LG Chem" target="Hyundai">
+      <data key="d4">supplier</data>
+      <data key="d5">432</data>
+    </edge>
+    <edge source="LG Chem" target="Infiniti">
+      <data key="d4">supplier</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="LG Chem" target="Isuzu">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Jaguar">
+      <data key="d4">supplier</data>
+      <data key="d5">52</data>
+    </edge>
+    <edge source="LG Chem" target="Jeep">
+      <data key="d4">supplier</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="LG Chem" target="Ds">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Faraday">
+      <data key="d4">supplier</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="LG Chem" target="Ferrari">
+      <data key="d4">supplier</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="LG Chem" target="Fiat">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Fisker">
+      <data key="d4">supplier</data>
+      <data key="d5">13</data>
+    </edge>
+    <edge source="LG Chem" target="Dodge">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="LG Chem" target="Ford">
+      <data key="d4">merger</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="LG Chem" target="Geely">
+      <data key="d4">partnership</data>
+      <data key="d5">37</data>
+    </edge>
+    <edge source="LG Chem" target="Gac">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Rolls royce">
+      <data key="d4">supplier</data>
+      <data key="d5">23</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Porsche">
+      <data key="d4">partnerhip</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Rivian">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Renault">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Nissan">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Mitsubishi">
+      <data key="d4">partnership</data>
+      <data key="d5">6</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Saab">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Tata">
+      <data key="d4">partnership</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Vw">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Volvo">
+      <data key="d4">Relationship: Nothing
+Explanation: There is no relationship between the two companies.  Lockheed Martin and Volvo are not related to each other in any manner or form.
+Hence, it does not have a relationship with one another. 
+Suggestions:
+- It</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Volkswagen">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Toyota">
+      <data key="d4">partnership</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Tesla">
+      <data key="d4">buyer</data>
+      <data key="d5">21</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Mini">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Ford">
+      <data key="d4">supplier</data>
+      <data key="d5">7</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Daimler">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Bugatti">
+      <data key="d4">partnership</data>
+      <data key="d5">12</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Bmw">
+      <data key="d4">supplier</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Mclaren">
+      <data key="d4">partnership</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Lincoln">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Hyundai">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Hindustan">
+      <data key="d4">partnership</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge source="Lockheed Martin" target="Gm">
+      <data key="d4">buyer</data>
+      <data key="d5">17</data>
+    </edge>
+    <edge source="Morgan Advanced Materials" target="Faraday">
+      <data key="d4">partnership</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge source="Nanoramic Laboratories" target="Ford">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Nanoramic Laboratories" target="Gm">
+      <data key="d4">supplier</data>
+      <data key="d5">8</data>
+    </edge>
+    <edge source="Nanoramic Laboratories" target="Stellantis">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Our Next Energy" target="Hyundai">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Our Next Energy" target="Tesla">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="Our Next Energy" target="Gm">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Our Next Energy" target="Ford">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Our Next Energy" target="Bmw">
+      <data key="d4">buyer</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Our Next Energy" target="Chevrolet">
+      <data key="d4">supplier</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge source="SGL Carbon" target="Porsche">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="SGL Carbon" target="Tesla">
+      <data key="d4">supplier</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="SGL Carbon" target="Mitsubishi">
+      <data key="d4">merger</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="SGL Carbon" target="Bmw">
+      <data key="d4">supplier</data>
+      <data key="d5">7</data>
+    </edge>
+    <edge source="Simpliphi Power" target="Byd">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Simpliphi Power" target="Tesla">
+      <data key="d4">partnership</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge source="Soelect" target="Gm">
+      <data key="d4">merger</data>
+      <data key="d5">7</data>
+    </edge>
+    <edge source="Trojan Battery" target="Tesla">
+      <data key="d4">partnership</data>
+      <data key="d5">2</data>
+    </edge>
+  </graph>
+</graphml>
